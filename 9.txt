@@ -1,0 +1,1 @@
+(define (fun_name) (lambda (param) (body_of_fun)))
