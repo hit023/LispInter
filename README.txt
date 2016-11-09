@@ -11,6 +11,6 @@ LispInter provides appropriate interpretation for the following primitive functi
 6) isatom: returns true if the expression entered is an atom.
 7) quote: simply spit out what was entered.
 8) cond: a series of if/else statements.
-9) lambda createsa user-defined function.
+9) lambda: creates a user-defined function.
 ** +,-,*,/,<,>,>=,<= have usual meanings.
 ** Most of the standard math functions.
